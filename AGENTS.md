@@ -6,6 +6,7 @@
 - **Code Integrity**: Do not remove existing comments when modifying code; preserve all comments found in the original source.
 - **Security and Quality**: Implement robust error handling, adhere to security best practices, select efficient algorithms, and comply with platform requirements (such as store review guidelines and proper permission management).
 - **Minimal Diff**: Make targeted, precise changes. Do not refactor or reformat unrelated files or code blocks.
+- The app must support at least two languages: Japanese and Englis.
 
 ## 2. Standard Workflow
 1. **Analysis**: Search for and examine relevant files, type definitions, and existing architectural patterns.
